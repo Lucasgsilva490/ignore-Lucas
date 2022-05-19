@@ -1,0 +1,7 @@
+@font-face {
+    font-family: nomeSla;
+    src: url(Infinite\ Darkness\ Italic.ttf);
+}
+p{
+    font-family: nomeSla;
+}
